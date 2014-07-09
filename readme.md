@@ -6,7 +6,7 @@ cls
 
 ## Use
 ```js
-var cls = require('openssoars_cls');
+var cls = require('opensoars_cls');
 
 console.log(
 	cls({
