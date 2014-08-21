@@ -1,6 +1,10 @@
 {
   "name": "opensoars_cls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensoars/cls"
   }
 }
