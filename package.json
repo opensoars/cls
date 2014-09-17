@@ -9,6 +9,7 @@
   },
 
   "dependencies": {
+    "coveralls": "*"
   },
 
   "devDependencies": {
