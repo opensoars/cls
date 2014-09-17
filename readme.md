@@ -8,8 +8,6 @@ Command line output made easy and readable wit the optional use of colors.
 
 ---
 
-
-
 ## Install
 `npm install opensoars_cls`
 
