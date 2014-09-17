@@ -8,10 +8,12 @@ cls
 
 Command line output made easy and readable wit the optional use of colors.
 
+---
+
+
 ## Dependencies
 * None
 
----
 
 ## Install
 `npm install opensoars_cls`
