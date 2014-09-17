@@ -1,10 +1,26 @@
 {
   "name": "opensoars_cls",
-  "version": "0.0.2",
+  "version": "0.0.3",
+
+  "scripts": {
+    "test": "mocha ./test/mocha.js && npm run coverage && npm run coveralls",
+    "coverage": "istanbul cover ./test/coverage.js",
+    "coveralls": "node node_modules/coveralls/bin/coveralls.js < coverage/lcov.info"
+  },
+
   "dependencies": {
   },
+
+  "devDependencies": {
+    "mocha": "*",
+    "istanbul": "*",
+    "coveralls": "*"
+  },
+
   "repository": {
     "type": "git",
     "url": "https://github.com/opensoars/cls"
-  }
+  },
+
+  "readmeFilename": "readme.md"
 }
