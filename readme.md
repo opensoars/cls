@@ -1,7 +1,7 @@
 cls
 ===
 
-Command line output made easy and readable wit the optional use of colors
+Command line output made easy and readable wit the optional use of colors.
 
 ## Dependencies
 * None
