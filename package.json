@@ -9,12 +9,11 @@
   },
 
   "dependencies": {
-    "coveralls": "*"
   },
 
   "devDependencies": {
-    "mocha": "*",
-    "istanbul": "*",
+    "mocha": "1.21.4",
+    "istanbul": "0.3.2",
     "coveralls": "*"
   },
 
