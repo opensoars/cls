@@ -4,7 +4,7 @@ cls
 [![Build Status](https://img.shields.io/travis/opensoars/cls.svg?style=flat)](https://travis-ci.org/opensoars/cls)
 [![Coverage Status](https://img.shields.io/coveralls/opensoars/cls.svg?style=flat)](https://coveralls.io/r/opensoars/cls)
 [![Dependency Status](https://david-dm.org/opensoars/cls.svg?style=flat)](https://david-dm.org/opensoars/cls)
-[![Development Dependency Status](https://david-dm.org/opensoars/f_/dev-status.svg)](https://david-dm.org/opensoars/cls#info=devDependencies&view=table)
+[![Development Dependency Status](https://david-dm.org/opensoars/cls/dev-status.svg?style=flat)](https://david-dm.org/opensoars/cls#info=devDependencies&view=table)
 
 
 
