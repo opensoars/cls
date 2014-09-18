@@ -1,6 +1,8 @@
 {
   "name": "opensoars_cls",
-  "version": "0.0.3",
+  "version": "0.0.5",
+
+  "description": "Command line styling",
 
   "scripts": {
     "test": "mocha ./test/mocha.js && npm run coverage && npm run coveralls",
