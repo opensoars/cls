@@ -8,7 +8,7 @@ cls
 
 
 
-Command line output made easy and readable with the optional use of colors.
+Colorized command line logging made easy.
 
 ---
 
