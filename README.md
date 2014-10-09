@@ -7,11 +7,9 @@ cls
 [![Development Dependency Status](https://david-dm.org/opensoars/cls/dev-status.svg?style=flat)](https://david-dm.org/opensoars/cls#info=devDependencies&view=table)
 
 
-
 Colorized command line logging made easy.
 
 ---
-
 
 ## Dependencies
 * None
