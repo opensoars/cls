@@ -1,0 +1,5 @@
+node_modules/mocha/
+node_modules/istanbul/
+node_modules/coveralls/
+node_modules/.bin/
+coverage/
