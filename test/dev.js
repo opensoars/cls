@@ -12,3 +12,7 @@ console.log(
 console.log(
   cls(['a', 'b'], 'red', ['underline', 'bold'])
 );
+
+console.log(
+  cls(false, 'red')
+);
