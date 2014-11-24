@@ -15,8 +15,9 @@ Colorized command line logging made easy.
 * None
 
 
-## Install
+### Install
 `npm install opensoars_cls`
+
 
 ### Use
 ```js
@@ -36,7 +37,8 @@ var styled_string =  cls(
 console.log(styled_string);
 ```
 
-## Options
+
+### Options
 
 9 Colors
 
