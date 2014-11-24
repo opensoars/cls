@@ -29,16 +29,7 @@ Where `text` is the string or object to style, `color` is an optional color stri
 ```js
 var cls = require('opensoars_cls');
 
-var styled_string = cls(
-  // Text to style
-  'Hello, world!',        
-
-  // Optional text color 
-  'red',
-
-  // Optional text style(s), can be a string or an array with strings
-  ['bold', 'underline']
-);
+var styled_string = cls('Hello, world!', 'red', ['bold', 'underline']);
 
 console.log(styled_string);
 ```
