@@ -29,7 +29,7 @@ var styled_string =  cls(
   // Optional text color 
   'red',
 
-  // Optional text style(s), can be a string or array with strings
+  // Optional text style(s), can be a string or an array with strings
   ['bold', 'underline']
 );
 
