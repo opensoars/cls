@@ -15,17 +15,17 @@ Colorized command line logging made easy.
 * None
 
 
-### Install
+## Install
 `npm install opensoars_cls`
 
 
-### API
+## API
 `cls(text, [color], [style])`
 
 Where `text` is the string or object to style, `color` is an optional color string and `style` is an optional style string or an array of style strings.
 
 
-### Example
+## Example
 ```js
 var cls = require('opensoars_cls');
 
@@ -35,7 +35,7 @@ console.log(styled_string);
 ```
 
 
-### Options
+## Options
 
 * 9 Colors
   * white
