@@ -47,7 +47,7 @@ console.log(styled_string);
   * magenta
   * red
   * yellow
-* 5 Styles (if supported by your os its terminal)
+* 5 Styles (if supported by your OS its terminal)
   * bold
   * italic
   * underline
