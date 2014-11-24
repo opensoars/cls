@@ -22,16 +22,16 @@ Colorized command line logging made easy.
 ```js
 var cls = require('opensoars_cls');
 
-var styledString =  cls(
+var styled_string =  cls(
   // Text to style
-  'Hello world',        
+  'Hello, world!',        
 
   // Optional text color 
   'red',
 
   // Optional text style(s), can be a string or array with strings
   ['bold', 'underline']
-)
+);
 
-console.log(styledString);
+console.log(styled_string);
 ```
