@@ -22,7 +22,7 @@ Colorized command line logging made easy.
 ### API
 `cls(text, [color], [style])`
 
-Where `text` is the string or object to style, `color` is an optional color string and `style` is an optional style string or array of style strings.
+Where `text` is the string or object to style, `color` is an optional color string and `style` is an optional style string or an array of style strings.
 
 
 ### Example
