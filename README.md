@@ -35,3 +35,25 @@ var styled_string =  cls(
 
 console.log(styled_string);
 ```
+
+## Options
+
+9 Colors
+
+1. white
+2. grey
+3. black
+4. blue
+5. cyan
+6. green
+7. magenta
+8. red
+9. yellow
+
+5 Styles (if supported by your os its terminal)
+
+1. bold
+2. italic
+3. underline
+4. inverse
+5. strikethrough
