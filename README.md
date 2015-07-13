@@ -1,8 +1,11 @@
 cls
 ===
 
+[![Inline docs](http://inch-ci.org/github/opensoars/cls.svg?branch=master)](http://inch-ci.org/github/opensoars/cls)
+[![Code Climate](https://codeclimate.com/github/opensoars/cls/badges/gpa.svg)](https://codeclimate.com/github/opensoars/cls)
 [![Build Status](https://img.shields.io/travis/opensoars/cls.svg?style=flat)](https://travis-ci.org/opensoars/cls)
 [![Coverage Status](https://img.shields.io/coveralls/opensoars/cls.svg?style=flat)](https://coveralls.io/r/opensoars/cls)
+
 [![Dependency Status](https://david-dm.org/opensoars/cls.svg?style=flat)](https://david-dm.org/opensoars/cls)
 [![Development Dependency Status](https://david-dm.org/opensoars/cls/dev-status.svg?style=flat)](https://david-dm.org/opensoars/cls#info=devDependencies&view=table)
 
